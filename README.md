@@ -1,6 +1,8 @@
 <h1 align="center"> Bonjour, je suis Yakouba Sow </h1>
 <h3 align="center"> je suis un Développeur web Full Stack </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yakoubasow&label=Profile%20views&color=0e75b6&style=flat" alt="yakoubasow" /> </p>
+
 - 🌱 J’apprends actuellement de nouvelles technologies et langages de programmation comme : **TypeScript**
 
 - 📫 Comment me contacter : **yakoubasow13@gmail.com**
