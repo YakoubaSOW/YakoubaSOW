@@ -1,5 +1,5 @@
 <h1 align="center"> Bonjour, je suis Yakouba Sow </h1>
-<h3 align="center"> Développeur web Full Stack </h3>
+<h3 align="center"> je suis un Développeur web Full Stack </h3>
 
 - 🌱 J’apprends actuellement de nouvelles technologies et langages de programmation comme : **TypeScript**
 
