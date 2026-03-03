@@ -8,7 +8,7 @@
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
 <a href="https://github.com/YakoubaSOW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YakoubaSOW" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yakouba sow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakouba sow" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yakouba-sow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakouba sow" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et outils:</h3>
